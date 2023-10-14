@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-task-three/static/css/main.cdded001.css",
+    "main.js": "/react-task-three/static/js/main.1b49403d.js",
+    "index.html": "/react-task-three/index.html",
+    "main.cdded001.css.map": "/react-task-three/static/css/main.cdded001.css.map",
+    "main.1b49403d.js.map": "/react-task-three/static/js/main.1b49403d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdded001.css",
+    "static/js/main.1b49403d.js"
+  ]
+}
